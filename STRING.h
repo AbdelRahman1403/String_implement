@@ -2,7 +2,7 @@
 #define STRING_H
 /*
     Author : AbdelRahman Ahmed Mohamed Yassin.
-    file : STRING.c
+    file : STRING.h
     Description : in this file , the declaration of string.h functions.
 */
 #include <stdio.h>
